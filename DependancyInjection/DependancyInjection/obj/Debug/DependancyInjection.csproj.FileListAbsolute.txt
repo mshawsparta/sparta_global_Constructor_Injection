@@ -1,0 +1,7 @@
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\bin\Debug\DependancyInjection.exe.config
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\bin\Debug\DependancyInjection.exe
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\bin\Debug\DependancyInjection.pdb
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\obj\Debug\DependancyInjection.csprojAssemblyReference.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\obj\Debug\DependancyInjection.csproj.CoreCompileInputs.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\obj\Debug\DependancyInjection.exe
+C:\Users\tech-w100a\Desktop\Engineering26\week6\SOLID\DependancyInjection\DependancyInjection\obj\Debug\DependancyInjection.pdb
